@@ -1,6 +1,8 @@
 
-Esta es mi primera prueba del uso de Visual Studio Code
+Esta es mi segunda prueba del uso de Visual Studio Code
 
 Lol
 
 Veamos como lo voy a utilizar y como guarda las versiones.
+
+Esta es una prueba de los cambios que voy haciendo >v para ver cómo los guarda.
